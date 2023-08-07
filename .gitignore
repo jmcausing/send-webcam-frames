@@ -1,0 +1,16 @@
+.installed.cfg
+bin
+develop-eggs
+dist
+downloads
+eggs
+parts
+src/*.egg-info
+lib
+lib64
+include
+share
+pyvenv.cfg
+logs
+unknown_faces
+Scripts
